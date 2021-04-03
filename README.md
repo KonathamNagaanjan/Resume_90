@@ -15,7 +15,7 @@
  - **2019-2023**
  - **Guntur,Andhra Pradesh,India**
  
- - Intermediate
+ -Intermediate
  - **sri gayathri junior college**
 - **mpc**
 - **2017-2019**
