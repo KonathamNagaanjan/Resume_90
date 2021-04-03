@@ -34,6 +34,6 @@
  - DBMS
  - GIT & GIT HUB
  
- #### CERTIFICATIONS:
+ ### CERTIFICATIONS:
  - completed python for everybody in **coursera**
  - certified by **Fullstack** Nanodegree in **udacity**
